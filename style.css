@@ -102,3 +102,56 @@ height: 550px;
     margin-right: 40px;
     text-align: center;
 }
+/*-------------blogs------------------*/
+.blog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(210, 214, 217);
+}
+.blog-title{
+    font-size: 30px;
+    font-weight: 700;
+}
+.off{
+    color: red;
+}
+/*---------instagram----------*/
+.Instagram{
+    height: 300px;
+    width: auto;
+}
+.four{
+    display: flex;
+    justify-content: space-around;
+}
+/*-----------last-blog ------------------*/
+.last-blog{
+    background-image: url("./img/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 1240px;
+    margin: 80px;
+}
+.email{
+    padding: 15px 100px;
+    text-align: center; 
+}
+.nine{
+    position: relative;
+    top: 130px;
+    
+    display: flex;
+    align-items: center;
+justify-content: center;}
+
+.footer{
+    background-color: black;
+    padding: 100px;
+    text-align: center;
+    color: white;
+}
+.on{
+    color: white;
+}
