@@ -40,3 +40,65 @@ height: 550px;
     font-size: 20px;
     line-height: 40px;
 }
+/*----------about--------------*/
+
+/*----------feature--------------*/
+.Feature{
+    margin-top: 80px;
+}
+.Feature-all{
+    text-align: center;
+}
+.Feature-photo{
+    height: 350px;
+    width: auto;
+}
+
+.Feature-main{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.fatured-first{
+    background-color: rgb(219, 189, 194);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 50% 50% 0 0;
+    margin-left: 10px;
+}
+.fatured-second{
+    background-color: rgb(181, 212, 212);
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 50% 50% 0 0;
+}
+.fatured-third{
+    background-color: rgb(201, 205, 207);
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 50% 50% 0 0;
+}
+.flower-text{
+    
+    font-size: 20px;
+    border-bottom: 1px solid black;
+    
+}
+/*-------featured---------*/
+/*-------service---------*/
+.service{
+    margin: 120px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(227, 227, 222);
+    padding: 20px;
+    
+
+}
+.service-main{
+    margin-right: 40px;
+    text-align: center;
+}
