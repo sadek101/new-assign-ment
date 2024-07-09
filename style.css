@@ -1,0 +1,28 @@
+/* -------------header--------------*/
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 600px;
+    background-color: rgb(233, 223, 220);
+    
+    
+}
+
+.title{
+    font-size: 80px;
+}
+.choto-text{
+    font-size: 20px;
+}
+.header-img{
+height: 550px;
+}
+.btn-primary{
+    padding: 15px;
+    background-color: rgb(236, 16, 16);
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+/*-------------header------------*/
